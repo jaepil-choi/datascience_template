@@ -1,0 +1,7 @@
+{
+    // "python.pythonPath": "C:\\Users\\chlje\\anaconda3\\envs\\deeplearning38\\python.exe",
+    // "python.analysis.useImportHeuristic": true,
+    "files.watcherExclude": {
+        "**/data/**": true
+    }
+}
