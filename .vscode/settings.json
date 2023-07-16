@@ -3,5 +3,9 @@
     // "python.analysis.useImportHeuristic": true,
     "files.watcherExclude": {
         "**/data/**": true
-    }
+    },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none"
 }
